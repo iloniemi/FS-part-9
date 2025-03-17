@@ -53,8 +53,3 @@ const EntryForm = (props: EntryFormProps) => {
 };
 
 export default EntryForm;
-
-
-/*
-
-      */
